@@ -1,0 +1,113 @@
+body{
+	margin:0;
+	background-color: aliceblue;
+}
+
+.wecome{
+	text-align: center;
+
+}
+
+.ol{
+	background-color: orange;
+}
+
+.header{
+	background-color:#1da1f2;
+	font-size: 30px;
+}
+
+#logo{
+	display: inline-block;
+	width: 30%;
+	height: 30%;
+}
+
+#logo img{
+	width:50%;
+	height:50%
+	padding:5px;
+
+
+}
+
+#navigation{
+	width:70%;
+	display:inline-block;
+	vertical-align:top;
+	padding-top:1em;
+}
+
+#foot{
+	background-color: blue;
+	padding: 10px;
+}
+
+#vis{
+	width: 50%;
+    display: inline-block;
+}
+
+#mis{
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;sssss
+}   
+.welcome{
+   text-align: center;
+}
+
+.imgs{
+	width: 30%;
+	display:inline-block;
+}
+
+.imgs img {
+	width: 100%;
+}
+
+.gossip{
+	width: 70%;
+	display:inline-block;
+	vertical-align: top;
+}
+#dog{
+	text-align: center;
+	padding-right: 400px;
+}
+.contact{font-family:consolas;
+	background-color:lightgreen;
+}
+.con{
+	background-color:pink;
+}
+.cont{ 
+	background-color:lightblue;
+}
+.contt{
+	background-color:purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
